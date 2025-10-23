@@ -1,4 +1,4 @@
-# Changelog for `lexersProyecto01`
+# Changelog for `qlexers`
 
 All notable changes to this project will be documented in this file.
 

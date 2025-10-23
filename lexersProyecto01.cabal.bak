@@ -1,5 +1,5 @@
 cabal-version:      2.4
-name:               lexersProyecto01
+name:               lexersProyecto01s
 version:            0.1.0.0
 author:             Your Name
 maintainer:         your.email@example.com
@@ -7,8 +7,7 @@ synopsis:           Lexical Analyzer for IMP language
 
 executable qlexers
     main-is:          Main.hs
-    other-modules:    Token
-                    , RegEx
+    other-modules:    RegEx
                     , Thompson
                     , Automata
                     , Minimizar
